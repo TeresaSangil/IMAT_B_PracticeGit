@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sangi\\Documents\\Proyectos\\Prueba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC1A2367-0B1C-4929-B69A-7FC101E486E7}|Prueba.csproj|c:\\users\\sangi\\documents\\proyectos\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC1A2367-0B1C-4929-B69A-7FC101E486E7}|Prueba.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37C3416F-D32C-5D3F-D791-6232BE6FD836}|Prueba.csproj|c:\\users\\sangi\\documents\\proyectos\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C3416F-D32C-5D3F-D791-6232BE6FD836}|Prueba.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\sangi\\Documents\\Proyectos\\Prueba\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T15:06:20.058Z",
               "EditorCaption": ""
